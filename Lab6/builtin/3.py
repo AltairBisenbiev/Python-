@@ -1,0 +1,6 @@
+a=input()
+b=list(a)
+b.reverse()
+a=list(a)
+if(a==b): print(True)
+else: print(False)
